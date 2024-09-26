@@ -1,0 +1,16 @@
+D:\Tugas\SendingFiles\ReceivingFiles\bin\Debug\net8.0-windows\ReceivingFiles.exe
+D:\Tugas\SendingFiles\ReceivingFiles\bin\Debug\net8.0-windows\ReceivingFiles.deps.json
+D:\Tugas\SendingFiles\ReceivingFiles\bin\Debug\net8.0-windows\ReceivingFiles.runtimeconfig.json
+D:\Tugas\SendingFiles\ReceivingFiles\bin\Debug\net8.0-windows\ReceivingFiles.dll
+D:\Tugas\SendingFiles\ReceivingFiles\bin\Debug\net8.0-windows\ReceivingFiles.pdb
+D:\Tugas\SendingFiles\ReceivingFiles\obj\Debug\net8.0-windows\SendingFiles.Form1.resources
+D:\Tugas\SendingFiles\ReceivingFiles\obj\Debug\net8.0-windows\ReceivingFiles.csproj.GenerateResource.cache
+D:\Tugas\SendingFiles\ReceivingFiles\obj\Debug\net8.0-windows\ReceivingFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas\SendingFiles\ReceivingFiles\obj\Debug\net8.0-windows\ReceivingFiles.AssemblyInfoInputs.cache
+D:\Tugas\SendingFiles\ReceivingFiles\obj\Debug\net8.0-windows\ReceivingFiles.AssemblyInfo.cs
+D:\Tugas\SendingFiles\ReceivingFiles\obj\Debug\net8.0-windows\ReceivingFiles.csproj.CoreCompileInputs.cache
+D:\Tugas\SendingFiles\ReceivingFiles\obj\Debug\net8.0-windows\ReceivingFiles.dll
+D:\Tugas\SendingFiles\ReceivingFiles\obj\Debug\net8.0-windows\refint\ReceivingFiles.dll
+D:\Tugas\SendingFiles\ReceivingFiles\obj\Debug\net8.0-windows\ReceivingFiles.pdb
+D:\Tugas\SendingFiles\ReceivingFiles\obj\Debug\net8.0-windows\ReceivingFiles.genruntimeconfig.cache
+D:\Tugas\SendingFiles\ReceivingFiles\obj\Debug\net8.0-windows\ref\ReceivingFiles.dll

@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tugas\\SendingFiles\\SendingFiles-PJK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{115BD180-96D8-4B76-ADBA-12361EAF3464}|SendingFiles-PJK.csproj|D:\\Tugas\\SendingFiles\\SendingFiles-PJK\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{115BD180-96D8-4B76-ADBA-12361EAF3464}|SendingFiles-PJK.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115BD180-96D8-4B76-ADBA-12361EAF3464}|SendingFiles-PJK.csproj|d:\\tugas\\sendingfiles\\sendingfiles-pjk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115BD180-96D8-4B76-ADBA-12361EAF3464}|SendingFiles-PJK.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115BD180-96D8-4B76-ADBA-12361EAF3464}|SendingFiles-PJK.csproj|d:\\tugas\\sendingfiles\\sendingfiles-pjk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115BD180-96D8-4B76-ADBA-12361EAF3464}|SendingFiles-PJK.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115BD180-96D8-4B76-ADBA-12361EAF3464}|SendingFiles-PJK.csproj|d:\\tugas\\sendingfiles\\sendingfiles-pjk\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115BD180-96D8-4B76-ADBA-12361EAF3464}|SendingFiles-PJK.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115BD180-96D8-4B76-ADBA-12361EAF3464}|SendingFiles-PJK.csproj|d:\\tugas\\sendingfiles\\sendingfiles-pjk\\sendingfiles-pjk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{115BD180-96D8-4B76-ADBA-12361EAF3464}|SendingFiles-PJK.csproj|solutionrelative:sendingfiles-pjk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SendingFiles-PJK.csproj",
+              "DocumentMoniker": "D:\\Tugas\\SendingFiles\\SendingFiles-PJK\\SendingFiles-PJK.csproj",
+              "RelativeDocumentMoniker": "SendingFiles-PJK.csproj",
+              "ToolTip": "D:\\Tugas\\SendingFiles\\SendingFiles-PJK\\SendingFiles-PJK.csproj",
+              "RelativeToolTip": "SendingFiles-PJK.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-26T13:49:47.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tugas\\SendingFiles\\SendingFiles-PJK\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Tugas\\SendingFiles\\SendingFiles-PJK\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:49:01.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Tugas\\SendingFiles\\SendingFiles-PJK\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Tugas\\SendingFiles\\SendingFiles-PJK\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:48:59.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Tugas\\SendingFiles\\SendingFiles-PJK\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Tugas\\SendingFiles\\SendingFiles-PJK\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:48:48.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Tugas\\SendingFiles\\SendingFiles-PJK\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Tugas\\SendingFiles\\SendingFiles-PJK\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:48:10.199Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

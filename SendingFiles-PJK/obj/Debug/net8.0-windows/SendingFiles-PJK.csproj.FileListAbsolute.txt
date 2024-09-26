@@ -1,0 +1,16 @@
+D:\Tugas\SendingFiles\SendingFiles-PJK\bin\Debug\net8.0-windows\SendingFiles-PJK.exe
+D:\Tugas\SendingFiles\SendingFiles-PJK\bin\Debug\net8.0-windows\SendingFiles-PJK.deps.json
+D:\Tugas\SendingFiles\SendingFiles-PJK\bin\Debug\net8.0-windows\SendingFiles-PJK.runtimeconfig.json
+D:\Tugas\SendingFiles\SendingFiles-PJK\bin\Debug\net8.0-windows\SendingFiles-PJK.dll
+D:\Tugas\SendingFiles\SendingFiles-PJK\bin\Debug\net8.0-windows\SendingFiles-PJK.pdb
+D:\Tugas\SendingFiles\SendingFiles-PJK\obj\Debug\net8.0-windows\SendingFiles_PJK.Form1.resources
+D:\Tugas\SendingFiles\SendingFiles-PJK\obj\Debug\net8.0-windows\SendingFiles-PJK.csproj.GenerateResource.cache
+D:\Tugas\SendingFiles\SendingFiles-PJK\obj\Debug\net8.0-windows\SendingFiles-PJK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas\SendingFiles\SendingFiles-PJK\obj\Debug\net8.0-windows\SendingFiles-PJK.AssemblyInfoInputs.cache
+D:\Tugas\SendingFiles\SendingFiles-PJK\obj\Debug\net8.0-windows\SendingFiles-PJK.AssemblyInfo.cs
+D:\Tugas\SendingFiles\SendingFiles-PJK\obj\Debug\net8.0-windows\SendingFiles-PJK.csproj.CoreCompileInputs.cache
+D:\Tugas\SendingFiles\SendingFiles-PJK\obj\Debug\net8.0-windows\SendingFiles-PJK.dll
+D:\Tugas\SendingFiles\SendingFiles-PJK\obj\Debug\net8.0-windows\refint\SendingFiles-PJK.dll
+D:\Tugas\SendingFiles\SendingFiles-PJK\obj\Debug\net8.0-windows\SendingFiles-PJK.pdb
+D:\Tugas\SendingFiles\SendingFiles-PJK\obj\Debug\net8.0-windows\SendingFiles-PJK.genruntimeconfig.cache
+D:\Tugas\SendingFiles\SendingFiles-PJK\obj\Debug\net8.0-windows\ref\SendingFiles-PJK.dll
